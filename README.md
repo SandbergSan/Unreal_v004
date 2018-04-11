@@ -1,8 +1,19 @@
 # Unreal
 
+## How to install Git:
+
+1. Download VisualStudioCode from: https://code.visualstudio.com/
+2. Install it, all default settings.
+3. Download Git from: https://git-scm.com/download/win
+4. Install it, all default settings except "Choosing the default editor used by Git". Set that to VisualStudioCode. 
+5. Download GitHub Desktop from: https://desktop.github.com/
+6. Install and run GitHub Desktop, in the app: Sign into GitHub.com
+7. Click "Clone a repository" and select the latest desired repository.
+
+
 ## How to make a new version of the project:
 1. Create a new repository with a new version name on Github without a readme or a gitignore (Those are copied from old project).
-2. Click the Set up in Desktop button and then Clone to create a local clone of the project.
+2. Click the "Set up in Desktop" button and then "Clone" to create a local clone of the project.
 3. Copy all the files except the .git folder from the old folder into the new folder. 
 4. Update the version of the unreal folder and the unreal project file.
 5. Launch unreal engine by opening the new and renamed unreal project file.
