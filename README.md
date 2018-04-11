@@ -1,6 +1,6 @@
 # Unreal
 
-## How to install Git:
+## How to install Git and start using it for Unreal Engine:
 
 1. Download VisualStudioCode from: https://code.visualstudio.com/
 2. Install it, all default settings.
@@ -8,7 +8,10 @@
 4. Install it, all default settings except "Choosing the default editor used by Git". Set that to VisualStudioCode. 
 5. Download GitHub Desktop from: https://desktop.github.com/
 6. Install and run GitHub Desktop, in the app: Sign into GitHub.com
-7. Click "Clone a repository" and select the latest desired repository.
+7. Click "Clone a repository" and select the latest Version of the Unreal Project.
+8. Add all needed assets to the Unreal Project (Read more about this below in "About GitIgnore folders")
+9. Open the Unreal Project file. When opened, check that everything is working.
+10. Click File menu, then Connect to Source Control. Select Git, all user info should be set correctly. Connect.
 
 
 ## How to make a new version of the project:
