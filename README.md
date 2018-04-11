@@ -1,6 +1,6 @@
 # Unreal
 
-##How to make a new version of the project:
+## How to make a new version of the project:
 1. Create a new repository with a new version name on Github without a readme or a gitignore (Those are copied from old project).
 2. Click the Set up in Desktop button and then Clone to create a local clone of the project.
 3. Copy all the files except the .git folder from the old folder into the new folder. 
@@ -8,8 +8,18 @@
 5. Launch unreal engine by opening the new and renamed unreal project file.
 6. Make sure everything works, and then push it all up to GitHub.
 
+## About GitIgnore folders:
 
+In Unreal/Content there are three folders called: **_GitIgnore_Assets**, **_GitIgnore_New**, **_GitIgnore_Temp**.
+All these folders are ignored when uploading and downloading from GitHub so they have to be synced manually.
+This is to lower the amount of big files to transfer and check on GitHub.
+(Note that these folders may need to be created manually)
 
+**_GitIgnore_Assets**: Contains crucial files that needs to be downloaded and installed manually from _Master Assets_.
+**_GitIgnore_New**: This is empty, but can be used to keep track of what files that needs to be added to _Master Assets_.
+**_GitIgnore_Temp**: This is empty, but can be used for work in progress stuff that you don't need to share yet.
+
+Note that _Master Assets_ is just a placeholder concept. It might be a zip-file on the cloud you need to download or something.
 
 
 
