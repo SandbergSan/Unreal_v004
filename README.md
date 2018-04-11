@@ -2,6 +2,7 @@
 
 ## How to install Git and start using it for Unreal Engine:
 
+(Note: i installed GitHub Desktop first, but i think this order will work)
 1. Download VisualStudioCode from: https://code.visualstudio.com/
 2. Install it, all default settings.
 3. Download Git from: https://git-scm.com/download/win
