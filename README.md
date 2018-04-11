@@ -25,10 +25,10 @@
 
 ## About GitIgnore folders:
 
-In Unreal/Content there are three folders called: **_GitIgnore_Assets**, **_GitIgnore_New**, **_GitIgnore_Temp**.
+In Unreal_vXXX/Content there are three folders called: **_GitIgnore_Assets**, **_GitIgnore_New**, **_GitIgnore_Temp**.
 All these folders are ignored when uploading and downloading from GitHub so they have to be synced manually.
 This is to lower the amount of big files to transfer and check on GitHub.
-(Note that these folders may need to be created manually)
+(Note that these folders may need to be created manually in windows before ever starting the project in Unreal.)
 
 **_GitIgnore_Assets**: Contains crucial files that needs to be downloaded and installed manually from _Master Assets_.
 **_GitIgnore_New**: This is empty, but can be used to keep track of what files that needs to be added to _Master Assets_.
