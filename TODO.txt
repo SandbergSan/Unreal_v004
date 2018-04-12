@@ -1,0 +1,2 @@
+ac_ItemDatabase 
+Att skapa alla saker här är inte hållbart pga att när man ändrar tex item_structen så resettar all data man satt in. Gör istället att den laddar in all info från ett annat ställe när itemdatabase startar.
