@@ -11,7 +11,7 @@
 6. Install and run GitHub Desktop, in the app: Sign into GitHub.com
 7. Click "Clone a repository" and select the latest Version of the Unreal Project.
 8. Add all needed assets to the Unreal Project (Read more about this below in "About GitIgnore folders")
-9. Open the Unreal Project file. When opened, check that everything is working.
+9. Open the Unreal Project file (this will add it to the Epic Game Launcher). When opened, check that everything is working.
 10. Click File menu, then Connect to Source Control. Select Git, all user info should be set correctly. Connect.
 
 
