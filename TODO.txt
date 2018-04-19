@@ -1,1 +1,4 @@
-Göra så att saker kan vara unika? kanske så att de stackar flera svärd som i darksouls... kanske får göra en container liksom som håller en item info????????
+göra så att funktionerna för att disabla musen ock tangentbordet är tydligt uppdelade:
+func enable input game
+func enable input ui
+func disable input
